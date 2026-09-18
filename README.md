@@ -176,8 +176,6 @@ Potential future improvements include:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Dashboard
 
 ![GradeTrack Dashboard](screenshots/dashboard1.png)
@@ -185,32 +183,38 @@ Potential future improvements include:
 ### 📊 Dashboard Insights & Achievements
 
 ![GradeTrack Dashboard Insights](screenshots/dashboard2.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard3.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard4.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard5.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard6.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard7.png)
+
 ![GradeTrack Dashboard Insights](screenshots/dashboard8.png)
 
 ### 🧮 CGPA Calculator
 
-![GradeTrack CGPA Calculator](screenshots/CGPA calculator.png)
+![GradeTrack CGPA Calculator](screenshots/CGPA%20calculator.png)
 
 ### 🎯 CGPA Goal Planner
 
-![GradeTrack CGPA Goal Planner](screenshots/CGPA goal planner.png)
+![GradeTrack CGPA Goal Planner](screenshots/CGPA%20goal%20planner.png)
 
 ### 📅 Attendance Calculator
 
-![GradeTrack Attendance Calculator](screenshots/attendance calculator.png)
+![GradeTrack Attendance Calculator](screenshots/attendance%20calculator.png)
 
 ### 🎯 Attendance Goal Planner
 
-![GradeTrack Attendance Planner](screenshots/attendance goal planner.png)
+![GradeTrack Attendance Goal Planner](screenshots/attendance%20goal%20planner.png)
 
 ### 📈 Future Attendance Projection
 
-![GradeTrack Future Attendance Projection](screenshots/future attendance projection.png)
+![GradeTrack Future Attendance Projection](screenshots/future%20attendance%20projection.png)
 
 ---
 
