@@ -176,7 +176,41 @@ Potential future improvements include:
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here after the final UI is completed.
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![GradeTrack Dashboard](screenshots/dashboard1.png)
+
+### 📊 Dashboard Insights & Achievements
+
+![GradeTrack Dashboard Insights](screenshots/dashboard2.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard3.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard4.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard5.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard6.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard7.png)
+![GradeTrack Dashboard Insights](screenshots/dashboard8.png)
+
+### 🧮 CGPA Calculator
+
+![GradeTrack CGPA Calculator](screenshots/CGPA calculator.png)
+
+### 🎯 CGPA Goal Planner
+
+![GradeTrack CGPA Goal Planner](screenshots/CGPA goal planner.png)
+
+### 📅 Attendance Calculator
+
+![GradeTrack Attendance Calculator](screenshots/attendance calculator.png)
+
+### 🎯 Attendance Goal Planner
+
+![GradeTrack Attendance Planner](screenshots/attendance goal planner.png)
+
+### 📈 Future Attendance Projection
+
+![GradeTrack Future Attendance Projection](screenshots/future attendance projection.png)
 
 ---
 
