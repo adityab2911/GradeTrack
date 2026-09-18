@@ -82,12 +82,10 @@ GradeTrack/
 ├── README.md
 ├── .gitignore
 │
-├── calculations/
-│   ├── achievements.py
-│   ├── attendance.py
-│   └── cgpa.py
-│
-└── gradetrack.db
+└── calculations/
+    ├── achievements.py
+    ├── attendance.py
+    └── cgpa.py
 ```
 
 > `gradetrack.db`, `venv/`, and Python cache files are excluded from Git using `.gitignore`.
